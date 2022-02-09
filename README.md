@@ -1,4 +1,4 @@
-Hi, I’m bijavix, a 17yo teenager student that loves programming and cyber security stuff. 
+Hi, I’m bijavix, a teenager student that loves programming and cyber security stuff. 
 I mainly program on Python and C++ and like making things with Arduino/PlatformIO for microcontrollers.
 I have many projects, but most of the time I don't publish them because are hard to use or just a mess to read the code.😅
 
