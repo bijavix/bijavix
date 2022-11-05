@@ -1,6 +1,8 @@
-Hi, I’m bijavix, a teenager student that loves programming and cyber security stuff. 
-I mainly program on Python and C++ and like making things with Arduino/PlatformIO for microcontrollers.
-I have many projects, but most of the time I don't publish them because are hard to use or just a mess to read the code.😅
+### <div align="center">Hi, I’m bijavix, a CS student that loves programming and cybersecurity. </div>
+
+- 🐍 I script in Python for PoC and quick projects.
+- ⚡ I program in C/C++ for projects where optimization is an important factor.
+- ☕ I'm learning Java (It's actually really cool and useful).
 
 <hr>
 
